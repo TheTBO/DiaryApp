@@ -13,6 +13,7 @@
         "guzzlehttp/guzzle": "^7.2",
         "inertiajs/inertia-laravel": "^0.5.4",
         "innocenzi/laravel-vite": "0.2.*",
+        "jenssegers/mongodb": "^3.9",
         "laravel/framework": "^9.0",
         "laravel/sanctum": "^2.8",
         "laravel/tinker": "^2.7",
