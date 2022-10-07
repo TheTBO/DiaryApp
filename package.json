@@ -1,5 +1,8 @@
 {
     "private": true,
+    "engines": {
+        "node": "^17.9.1"
+    },
     "scripts": {
         "dev": "yarn development",
         "development": "vite --host",
