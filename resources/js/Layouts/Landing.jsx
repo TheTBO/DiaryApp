@@ -21,7 +21,7 @@ function Landing({ children }) {
                 {children}
                 <div className="flex flex-col items-center justify-center gap-1 ">
                     <Link
-                        href={route("login")}
+                        href="/login"
                         className="px-2 py-1 my-2 uppercase bg-red-600 rounded shadow text-zinc-50"
                     >
                         Start Here
