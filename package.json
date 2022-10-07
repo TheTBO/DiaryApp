@@ -7,7 +7,7 @@
         "dev": "yarn development",
         "development": "vite --host",
         "prod": "yarn production",
-        "build": "npm production",
+        "build": "npm run production",
         "production": "vite build"
     },
     "devDependencies": {
